@@ -1,7 +1,7 @@
 {
   "name": "thorin-fetch-ws",
   "author": "Stiudeo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "build": "webpack",
     "dev": "babel src --out-dir lib --watch",
@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiudeo/Thorin-fetch-ws"
+    "url": "https://github.com/Thorinjs/Thorin-fetch-ws"
   },
   "homepage": "http://thorinjs.com",
   "bugs": {
-    "url": "https://github.com/Stiudeo/Thorin-fetch-ws/issues"
+    "url": "https://github.com/Thorinjs/Thorin-fetch-ws/issues"
   }
 }
