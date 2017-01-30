@@ -1,7 +1,7 @@
 {
   "name": "thorin-fetch-ws",
   "author": "Stiudeo",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "scripts": {
     "build": "webpack",
     "dev": "babel src --out-dir lib --watch",
